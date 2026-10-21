@@ -18,4 +18,4 @@ Estudio **Sistemas Microinformáticos y Redes** desde 2025. Me interesa el mundo
 - Estructuras Python
 
 ## Contacto
-- 📧 [tu correo]
+- vicentemiguelbartolome@gmail.com
