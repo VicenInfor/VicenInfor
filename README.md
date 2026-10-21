@@ -1,5 +1,9 @@
 # Hola, soy Vicente Miguel 👋
 
+<p align="center">
+  <img src="https://giphy.com/embed/ENY5vJgJPEfG3Ym14H" width="300" alt="Descripción del GIF">
+</p>
+
 Estudio **Sistemas Microinformáticos y Redes** desde 2025. Me interesa el mundo de los ordenadores y el modelado 3D.
 
 ## Sobre mí
@@ -15,4 +19,3 @@ Estudio **Sistemas Microinformáticos y Redes** desde 2025. Me interesa el mundo
 
 ## Contacto
 - 📧 [tu correo]
-![Serpiente comiendo mis contribuciones](https://raw.githubusercontent.com/VicenInfor/VicenInfor/output/ocean.gif)
