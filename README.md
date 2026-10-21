@@ -16,3 +16,4 @@ Estudio **Sistemas Microinformáticos y Redes** desde 2025. Me interesa el mundo
 ## Contacto
 - 📧 [tu correo]
 - 🔗 [LinkedIn, si lo tienes]
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
