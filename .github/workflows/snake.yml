@@ -2,15 +2,17 @@ name: Generate Snake
 
 on:
   schedule:
-    # Se ejecuta automáticamente cada 24 horas
     - cron: "0 0 * * *"
-  workflow_dispatch: # Permite ejecutarlo manualmente
+  workflow_dispatch:
+
+# Agrega estas líneas para autorizar explícitamente la escritura
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Genera la animación de la serpiente
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -19,7 +21,6 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # Sube los archivos generados a la rama 'output'
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
