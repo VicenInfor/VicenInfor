@@ -16,4 +16,8 @@ Estudio **Sistemas Microinformáticos y Redes** desde 2025. Me interesa el mundo
 ## Contacto
 - 📧 [tu correo]
 - 🔗 [LinkedIn, si lo tienes]
-![Serpiente de GitHub](https://githubusercontent.com)º
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USUARIO/USUARIO/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USUARIO/USUARIO/output/github-snake.svg" />
+  <img alt="Serpiente comiendo mis contribuciones" src="https://raw.githubusercontent.com/USUARIO/USUARIO/output/github-snake.svg" />
+</picture>
