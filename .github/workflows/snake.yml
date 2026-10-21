@@ -1,3 +1,4 @@
+
 name: GitHub Snake Game
 
 
@@ -95,5 +96,3 @@ jobs:
           # Optionally, you can set a custom commit message
 
           commit_message: "Update snake animation [skip ci]"
-
-
