@@ -1,26 +1,30 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-  
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Permite ejecutarlo manualmente
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      # Genera la animación de la serpiente
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generar serpiente
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # Sube los archivos generados a la rama 'output'
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Subir a la rama output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
