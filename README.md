@@ -1,6 +1,6 @@
 # Hola, soy Vicente Miguel 👋
 
-Estudio **Sistemas Microinformáticos y Redes** desde 2025. Me interesa el mundo de los ordenadores, las redes y el modelado 3D.
+Estudio **Sistemas Microinformáticos y Redes** desde 2025. Me interesa el mundo de los ordenadores y el modelado 3D.
 
 ## Sobre mí
 - 💻 Me gusta montar, reparar y configurar ordenadores.
@@ -9,11 +9,10 @@ Estudio **Sistemas Microinformáticos y Redes** desde 2025. Me interesa el mundo
 - 🎯 Busco trabajar como **técnico de ordenadores** o en **modelado 3D**.
 
 ## Lo que estoy aprendiendo
-- Sistemas operativos en red (Debian, usuarios, SSH, permisos...)
-- [Otra cosa que estés viendo en clase]
-- [Programa de 3D que uses, por ejemplo Blender]
+- Sistemas operativos en red (Ubuntu, usuarios, SSH, permisos)
+- Aplicaciones Web [Otra cosa que estés viendo en clase]
+- Estructuras Python
 
 ## Contacto
 - 📧 [tu correo]
 - 🔗 [LinkedIn, si lo tienes]
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
