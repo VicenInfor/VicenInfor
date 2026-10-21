@@ -20,4 +20,4 @@ Estudio **Sistemas Microinformáticos y Redes** desde 2025. Me interesa el mundo
 ## Contacto
 - vicentemiguelbartolome@gmail.com
 ## Mis proyectos
-- [ScoreCountDuo](VicenInfor/ScoreCountDuo.py): una frase explicando qué es. ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- [ScoreCountDuo](ScoreCountDuo.py): una frase explicando qué es. ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
