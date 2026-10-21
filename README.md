@@ -1,7 +1,7 @@
 # Hola, soy Vicente Miguel 👋
 
 <p align="center">
-  <img src="https://giphy.com/embed/ENY5vJgJPEfG3Ym14H" width="300" alt="Descripción del GIF">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB5aXkwNDU4NHhsdjFjNzBpbjd5bXczcmlyZHdkaXZhaXdyYW1nayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="300" alt="Descripción del GIF">
 </p>
 
 Estudio **Sistemas Microinformáticos y Redes** desde 2025. Me interesa el mundo de los ordenadores y el modelado 3D.
