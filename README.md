@@ -15,4 +15,4 @@ Estudio **Sistemas Microinformáticos y Redes** desde 2025. Me interesa el mundo
 
 ## Contacto
 - 📧 [tu correo]
-- 🔗 [LinkedIn, si lo tienes]
+![Serpiente comiendo mis contribuciones](https://raw.githubusercontent.com/VicenInfor/VicenInfor/output/ocean.gif)
